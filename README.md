@@ -1,5 +1,7 @@
 # kowal-pro
 
+[![Build Status](https://travis-ci.com/Kyczan/kowal-pro.svg?branch=master)](https://travis-ci.com/Kyczan/kowal-pro)
+
 My landing page for [kowal.pro](http://kowal.pro)
 
 Page is made using [Gatsby](https://www.gatsbyjs.org/) and this [starter](https://www.lekoarts.de/en/blog/gatsby-starter-portfolio-cara).
