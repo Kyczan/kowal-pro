@@ -1,7 +1,7 @@
 {
   "name": "kowal-pro",
   "description": "My landing page",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Krystian Kowal <krystian@kowal.pro> (https://kowal.pro)",
   "license": "MIT",
   "dependencies": {
